@@ -1,15 +1,20 @@
-���̃��|�W�g��(4970chun/tukuasotest)�ɂ���
+このリポジトリ(4970chun/tukuasotest)について
 
 ====
 
-git��github�Ɋ���邽�߁A�V�т��Ă�g���Ă݂܂��傤�B
+gitやgithubに慣れるため、遊びがてら使ってみましょう。
 
 
 
 ====
 
-�ǉ����ăR�~�b�g�ł��邩�������Ă݂܂��B
-���̃t�@�C���̕����R�[�h��SJIS�̂悤��Github��windows�̃A�v����ʂ��ƕ����������Ă܂��ˁB
-�܂��A�t�@�C�����̂ɖ��͂Ȃ��悤�Ȃ̂ŕ\���n�����ł����c�c�B
-�i�u��j
+追加してコミットできるか実験してみます。
+このファイルの文字コードがSJISのようでGithubのwindowsのアプリを通すと文字化けしてますね。
+まぁ、ファイル自体に問題はないようなので表示系だけですが……。
+（瞬希）
 
+====
+
+たしかに、文字化けしますね。
+というわけで、文字コードをUTF-8に変更してみました。
+（popoon）
